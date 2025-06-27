@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "davidanson.vscode-markdownlint",
+        "oleg-shilo.cs-script",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy"
+    ]
+}
